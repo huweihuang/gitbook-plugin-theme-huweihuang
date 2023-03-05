@@ -2,25 +2,24 @@
   "_args": [
     [
       {
-        "name": "gitbook-plugin-theme-default",
-        "raw": "gitbook-plugin-theme-default@1.0.7",
-        "rawSpec": "1.0.7",
+        "name": "gitbook-plugin-theme-huweihuang",
+        "raw": "gitbook-plugin-theme-huweihuang@1.0.8",
+        "rawSpec": "1.0.8",
         "scope": null,
-        "spec": "1.0.7",
+        "spec": "1.0.8",
         "type": "version"
-      },
-      "/Users/meitu/hexo/kubernetes-notes"
+      }
     ]
   ],
-  "_from": "gitbook-plugin-theme-default@1.0.7",
-  "_id": "gitbook-plugin-theme-default@1.0.7",
+  "_from": "gitbook-plugin-theme-huweihuang@1.0.8",
+  "_id": "gitbook-plugin-theme-huweihuang@1.0.8",
   "_inCache": true,
   "_installable": true,
-  "_location": "/gitbook-plugin-theme-default",
+  "_location": "/gitbook-plugin-theme-huweihuang",
   "_nodeVersion": "8.1.3",
   "_npmOperationalInternal": {
     "host": "s3://npm-registry-packages",
-    "tmp": "tmp/gitbook-plugin-theme-default-1.0.7.tgz_1501795455294_0.32261040550656617"
+    "tmp": "tmp/gitbook-plugin-theme-huweihuang-1.0.8.tgz_1501795455294_0.32261040550656617"
   },
   "_npmUser": {
     "email": "aaron.omullan@gmail.com",
@@ -29,36 +28,29 @@
   "_npmVersion": "5.0.3",
   "_phantomChildren": {},
   "_requested": {
-    "name": "gitbook-plugin-theme-default",
-    "raw": "gitbook-plugin-theme-default@1.0.7",
-    "rawSpec": "1.0.7",
+    "name": "gitbook-plugin-theme-huweihuang",
+    "raw": "gitbook-plugin-theme-huweihuang@1.0.8",
+    "rawSpec": "1.0.8",
     "scope": null,
-    "spec": "1.0.7",
+    "spec": "1.0.8",
     "type": "version"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "https://registry.npmjs.org/gitbook-plugin-theme-default/-/gitbook-plugin-theme-default-1.0.7.tgz",
+  "_resolved": "https://registry.npmjs.org/gitbook-plugin-theme-huweihuang/-/gitbook-plugin-theme-huweihuang-1.0.8.tgz",
   "_shasum": "51f71fbca74a261054e9e9d141c42167afefce88",
   "_shrinkwrap": null,
-  "_spec": "gitbook-plugin-theme-default@1.0.7",
-  "_where": "/Users/meitu/hexo/kubernetes-notes",
+  "_spec": "gitbook-plugin-theme-huweihuang@1.0.8",
   "author": {
-    "email": "contact@gitbook.com",
-    "name": "FriendCode Inc."
+    "email": "huweihuang@foxmail.com",
+    "name": "HU WEIHUANG"
   },
   "bugs": {
-    "url": "https://github.com/GitbookIO/theme-default/issues"
+    "url": "https://github.com/huweihuang/gitbook-plugin-theme-huweihuang/issues"
   },
-  "contributors": [
-    {
-      "email": "samy@gitbook.com",
-      "name": "Samy Pessé"
-    }
-  ],
   "dependencies": {},
-  "description": "Default theme for GitBook",
+  "description": "hu theme for GitBook",
   "devDependencies": {
     "browserify": "13.1.0",
     "eslint": "3.6.1",
@@ -76,7 +68,7 @@
   "dist": {
     "integrity": "sha512-vY+8Prz58H6iu6c7KHyOISxapKnwU8P1TWNqOzESFAB40ny9D/R7GpNL2IluicrsDvtI6VfpQeCYQbBniamulw==",
     "shasum": "51f71fbca74a261054e9e9d141c42167afefce88",
-    "tarball": "https://registry.npmjs.org/gitbook-plugin-theme-default/-/gitbook-plugin-theme-default-1.0.7.tgz"
+    "tarball": "https://registry.npmjs.org/gitbook-plugin-theme-huweihuang/-/gitbook-plugin-theme-huweihuang-1.0.8.tgz"
   },
   "engines": {
     "gitbook": ">=3.0.0"
@@ -121,44 +113,18 @@
       }
     }
   },
-  "homepage": "https://github.com/GitbookIO/theme-default#readme",
+  "homepage": "https://github.com/huweihuang/gitbook-plugin-theme-huweihuang#readme",
   "license": "Apache-2.0",
   "main": "./index.js",
-  "maintainers": [
-    {
-      "email": "johan.preynat@gmail.com",
-      "name": "jpreynat"
-    },
-    {
-      "email": "samypesse@gmail.com",
-      "name": "samypesse"
-    },
-    {
-      "email": "hello@gabinaureche.com",
-      "name": "zhouzi"
-    },
-    {
-      "email": "soreine.plume@gmail.com",
-      "name": "soreine"
-    },
-    {
-      "email": "aaron.omullan@gmail.com",
-      "name": "aarono"
-    },
-    {
-      "email": "contact@gitbook.com",
-      "name": "gitbook-bot"
-    }
-  ],
-  "name": "gitbook-plugin-theme-default",
+  "name": "gitbook-plugin-theme-huweihuang",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GitbookIO/theme-default.git"
+    "url": "git+https://github.com/huweihuang/gitbook-plugin-theme-huweihuang.git"
   },
   "scripts": {
     "prepublish": "./src/build.sh"
   },
-  "version": "1.0.7"
+  "version": "1.0.8"
 }
