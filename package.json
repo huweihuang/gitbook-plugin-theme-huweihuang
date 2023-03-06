@@ -3,23 +3,23 @@
     [
       {
         "name": "gitbook-plugin-theme-huweihuang",
-        "raw": "gitbook-plugin-theme-huweihuang@1.0.8",
-        "rawSpec": "1.0.8",
+        "raw": "gitbook-plugin-theme-huweihuang@1.0.9",
+        "rawSpec": "1.0.9",
         "scope": null,
-        "spec": "1.0.8",
+        "spec": "1.0.9",
         "type": "version"
       }
     ]
   ],
-  "_from": "gitbook-plugin-theme-huweihuang@1.0.8",
-  "_id": "gitbook-plugin-theme-huweihuang@1.0.8",
+  "_from": "gitbook-plugin-theme-huweihuang@1.0.9",
+  "_id": "gitbook-plugin-theme-huweihuang@1.0.9",
   "_inCache": true,
   "_installable": true,
   "_location": "/gitbook-plugin-theme-huweihuang",
   "_nodeVersion": "8.1.3",
   "_npmOperationalInternal": {
     "host": "s3://npm-registry-packages",
-    "tmp": "tmp/gitbook-plugin-theme-huweihuang-1.0.8.tgz_1501795455294_0.32261040550656617"
+    "tmp": "tmp/gitbook-plugin-theme-huweihuang-1.0.9.tgz_1501795455294_0.32261040550656617"
   },
   "_npmUser": {
     "email": "aaron.omullan@gmail.com",
@@ -29,19 +29,19 @@
   "_phantomChildren": {},
   "_requested": {
     "name": "gitbook-plugin-theme-huweihuang",
-    "raw": "gitbook-plugin-theme-huweihuang@1.0.8",
-    "rawSpec": "1.0.8",
+    "raw": "gitbook-plugin-theme-huweihuang@1.0.9",
+    "rawSpec": "1.0.9",
     "scope": null,
-    "spec": "1.0.8",
+    "spec": "1.0.9",
     "type": "version"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "https://registry.npmjs.org/gitbook-plugin-theme-huweihuang/-/gitbook-plugin-theme-huweihuang-1.0.8.tgz",
+  "_resolved": "https://registry.npmjs.org/gitbook-plugin-theme-huweihuang/-/gitbook-plugin-theme-huweihuang-1.0.9.tgz",
   "_shasum": "51f71fbca74a261054e9e9d141c42167afefce88",
   "_shrinkwrap": null,
-  "_spec": "gitbook-plugin-theme-huweihuang@1.0.8",
+  "_spec": "gitbook-plugin-theme-huweihuang@1.0.9",
   "author": {
     "email": "huweihuang@foxmail.com",
     "name": "HU WEIHUANG"
@@ -68,7 +68,7 @@
   "dist": {
     "integrity": "sha512-vY+8Prz58H6iu6c7KHyOISxapKnwU8P1TWNqOzESFAB40ny9D/R7GpNL2IluicrsDvtI6VfpQeCYQbBniamulw==",
     "shasum": "51f71fbca74a261054e9e9d141c42167afefce88",
-    "tarball": "https://registry.npmjs.org/gitbook-plugin-theme-huweihuang/-/gitbook-plugin-theme-huweihuang-1.0.8.tgz"
+    "tarball": "https://registry.npmjs.org/gitbook-plugin-theme-huweihuang/-/gitbook-plugin-theme-huweihuang-1.0.9.tgz"
   },
   "engines": {
     "gitbook": ">=3.0.0"
@@ -126,5 +126,5 @@
   "scripts": {
     "prepublish": "./src/build.sh"
   },
-  "version": "1.0.8"
+  "version": "1.0.9"
 }
